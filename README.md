@@ -1,5 +1,4 @@
-# [markov.run][5] .github.io
-Markov.run documentation
+# [markov.run][5]
 ![alt text](https://github.com/jz674/Markov_Documentation/blob/main/assets/Screen%20Shot%202021-02-06%20at%203.12.06%20AM.png)
 
 ## Automatically Design and Update Synthetic Traffic for Faster Go-To-Market
